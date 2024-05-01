@@ -1,4 +1,24 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
-*/
+body {
+  background-color: #db7676;
+}
+
+h1{
+  color: #ffffff;
+  text-align: center;
+  font-weight: bolder;
+}
+
+p{
+  color: #ffffff;
+  font-weight: bolder;
+}
+
+label{
+  color: #ffffff;
+  font-weight: bolder;
+}
+
+div{
+  color: #ffffff;
+  font-weight: bolder;
+}
